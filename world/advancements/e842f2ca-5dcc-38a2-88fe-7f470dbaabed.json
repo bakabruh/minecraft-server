@@ -1,0 +1,197 @@
+{
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-07-08 17:18:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/magenta_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-07-08 17:17:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/gray_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-07-08 17:17:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/place_dried_ghast_in_water": {
+    "criteria": {
+      "place_dried_ghast_in_water": "2025-07-08 17:18:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/black_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-07-08 17:17:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/yellow_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-07-08 17:17:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/pink_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-07-08 17:17:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/orange_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-07-08 17:17:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/light_blue_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-07-08 17:17:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-07-08 17:14:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/cyan_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-07-08 17:17:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-07-08 17:18:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-07-08 17:18:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-08 17:21:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/red_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-07-08 17:17:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/brown_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-07-08 17:17:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/green_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-07-08 17:17:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-08 17:18:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-07-08 17:14:09 +0200",
+      "minecraft:taiga": "2025-07-08 17:14:41 +0200",
+      "minecraft:river": "2025-07-08 17:15:57 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-07-08 17:18:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-07-08 17:18:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2025-07-08 17:15:22 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/purple_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-07-08 17:17:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/white_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-07-08 17:17:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-08 17:15:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-07-08 17:18:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/lime_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-07-08 17:17:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/blue_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-07-08 17:17:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-08 17:18:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-07-08 17:18:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-08 17:18:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/light_gray_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-07-08 17:17:25 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 4438
+}

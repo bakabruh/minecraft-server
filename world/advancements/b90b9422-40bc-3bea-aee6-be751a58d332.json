@@ -1,0 +1,29 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-07-08 17:08:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-07-08 17:08:40 +0200",
+      "minecraft:taiga": "2025-07-08 17:09:13 +0200",
+      "minecraft:river": "2025-07-08 17:15:52 +0200"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2025-07-08 17:09:29 +0200"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-08 17:09:29 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 4438
+}

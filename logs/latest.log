@@ -1,0 +1,37 @@
+[17:13:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:14:00] [ServerMain/INFO]: Loaded 1407 recipes
+[17:14:00] [ServerMain/INFO]: Loaded 1520 advancements
+[17:14:01] [Server thread/INFO]: Starting minecraft server version 1.21.7
+[17:14:01] [Server thread/INFO]: Loading properties
+[17:14:01] [Server thread/INFO]: Default game type: SURVIVAL
+[17:14:01] [Server thread/INFO]: Generating keypair
+[17:14:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:14:01] [Server thread/INFO]: Using default channel type
+[17:14:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:14:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:14:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:14:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:14:01] [Server thread/INFO]: Preparing level "world"
+[17:14:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:14:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:14:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:14:02] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[17:14:02] [Server thread/INFO]: Time elapsed: 1203 ms
+[17:14:02] [Server thread/INFO]: Done (1.438s)! For help, type "help"
+[17:14:08] [Server thread/INFO]: Sokatai[/10.0.0.19:57643] logged in with entity id 31 at (-0.5, 78.0, 4.5)
+[17:14:08] [Server thread/INFO]: Sokatai joined the game
+[17:14:30] [Server thread/INFO]: BakaBruh[/127.0.0.1:65445] logged in with entity id 380 at (71.825342554332, 71.0, -13.912614834988046)
+[17:14:30] [Server thread/INFO]: BakaBruh joined the game
+[17:15:41] [Server thread/INFO]: Made Sokatai a server operator
+[17:15:45] [Server thread/INFO]: [Sokatai: Set own game mode to Creative Mode]
+[17:16:43] [Server thread/INFO]: [Sokatai: Made BakaBruh a server operator]
+[17:16:53] [Server thread/INFO]: [BakaBruh: Set own game mode to Creative Mode]
+[17:17:38] [Server thread/INFO]: [Sokatai: Teleported Sokatai to BakaBruh]
+[17:18:31] [Server thread/INFO]: BakaBruh lost connection: Disconnected
+[17:18:31] [Server thread/INFO]: BakaBruh left the game
+[17:18:42] [Server thread/INFO]: Sokatai has made the advancement [Stay Hydrated!]
+[17:20:14] [Server thread/INFO]: [Sokatai: Set the time to 1000]
+[17:20:42] [Server thread/INFO]: [Sokatai: Set own game mode to Adventure Mode]
+[17:21:20] [Server thread/INFO]: Sokatai lost connection: Disconnected
+[17:21:20] [Server thread/INFO]: Sokatai left the game
+[17:22:20] [Server thread/INFO]: Server empty for 60 seconds, pausing
