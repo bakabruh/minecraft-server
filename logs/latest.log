@@ -1,37 +1,226 @@
-[17:13:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:14:00] [ServerMain/INFO]: Loaded 1407 recipes
-[17:14:00] [ServerMain/INFO]: Loaded 1520 advancements
-[17:14:01] [Server thread/INFO]: Starting minecraft server version 1.21.7
-[17:14:01] [Server thread/INFO]: Loading properties
-[17:14:01] [Server thread/INFO]: Default game type: SURVIVAL
-[17:14:01] [Server thread/INFO]: Generating keypair
-[17:14:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:14:01] [Server thread/INFO]: Using default channel type
-[17:14:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:14:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:14:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:14:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:14:01] [Server thread/INFO]: Preparing level "world"
-[17:14:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:14:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[17:14:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[17:14:02] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[17:14:02] [Server thread/INFO]: Time elapsed: 1203 ms
-[17:14:02] [Server thread/INFO]: Done (1.438s)! For help, type "help"
-[17:14:08] [Server thread/INFO]: Sokatai[/10.0.0.19:57643] logged in with entity id 31 at (-0.5, 78.0, 4.5)
-[17:14:08] [Server thread/INFO]: Sokatai joined the game
-[17:14:30] [Server thread/INFO]: BakaBruh[/127.0.0.1:65445] logged in with entity id 380 at (71.825342554332, 71.0, -13.912614834988046)
-[17:14:30] [Server thread/INFO]: BakaBruh joined the game
-[17:15:41] [Server thread/INFO]: Made Sokatai a server operator
-[17:15:45] [Server thread/INFO]: [Sokatai: Set own game mode to Creative Mode]
-[17:16:43] [Server thread/INFO]: [Sokatai: Made BakaBruh a server operator]
-[17:16:53] [Server thread/INFO]: [BakaBruh: Set own game mode to Creative Mode]
-[17:17:38] [Server thread/INFO]: [Sokatai: Teleported Sokatai to BakaBruh]
-[17:18:31] [Server thread/INFO]: BakaBruh lost connection: Disconnected
-[17:18:31] [Server thread/INFO]: BakaBruh left the game
-[17:18:42] [Server thread/INFO]: Sokatai has made the advancement [Stay Hydrated!]
-[17:20:14] [Server thread/INFO]: [Sokatai: Set the time to 1000]
-[17:20:42] [Server thread/INFO]: [Sokatai: Set own game mode to Adventure Mode]
-[17:21:20] [Server thread/INFO]: Sokatai lost connection: Disconnected
-[17:21:20] [Server thread/INFO]: Sokatai left the game
-[17:22:20] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:15:31] [ServerMain/INFO]: [bootstrap] Running Java 24 (Java HotSpot(TM) 64-Bit Server VM 24.0.1+9-30; Oracle Corporation null) on Windows 11 10.0 (amd64)
+[16:15:31] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) for Minecraft 1.21.7
+[16:15:32] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:15:32] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins\Vault.jar'...
+[16:15:33] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins\Vault.jar' in 425ms.
+[16:15:33] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[16:15:33] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+ - Admin-GUI (1.9.0), ProtocolLib (5.3.0), TAB (5.2.4), Vault (1.7.3-b131), ViaVersion (5.4.1)
+[16:15:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:15:39] [ServerMain/INFO]: Loaded 1407 recipes
+[16:15:39] [ServerMain/INFO]: Loaded 1520 advancements
+[16:15:39] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[16:15:40] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 411,5ms
+[16:15:40] [Server thread/INFO]: Starting minecraft server version 1.21.7
+[16:15:40] [Server thread/INFO]: Loading properties
+[16:15:40] [Server thread/INFO]: This server is running Paper version 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) (Implementing API version 1.21.7-R0.1-SNAPSHOT)
+[16:15:40] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[16:15:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:15:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:15:41] [Server thread/INFO]: [MoonriseCommon] Paper is using 3 worker threads, 1 I/O threads
+[16:15:41] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[16:15:41] [Server thread/INFO]: Default game type: SURVIVAL
+[16:15:41] [Server thread/INFO]: Generating keypair
+[16:15:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:15:41] [Server thread/INFO]: Using default channel type
+[16:15:41] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[16:15:41] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[16:15:42] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[16:15:42] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
+[16:15:42] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
+[16:15:42] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[16:15:42] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[16:15:43] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.4
+[16:15:43] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[16:15:43] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.7) has not yet been tested! Proceed with caution.
+[16:15:43] [Server thread/ERROR]:   [ProtocolLib] INTERNAL ERROR: Cannot load ProtocolLib.
+  If this problem hasn't already been reported, please open a ticket
+  at https://github.com/dmulloy2/ProtocolLib/issues with the following data:
+  Stack Trace:
+  java.lang.RuntimeException: Unable to find network.ProtocolInfo$a (network.ProtocolInfo$Unbound)
+  	at ProtocolLib.jar//com.comphenix.protocol.utility.MinecraftReflection.lambda$getMinecraftClass$5(MinecraftReflection.java:1581)
+  	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+  	at ProtocolLib.jar//com.comphenix.protocol.utility.MinecraftReflection.getMinecraftClass(MinecraftReflection.java:1581)
+  	at ProtocolLib.jar//com.comphenix.protocol.utility.MinecraftReflection.getProtocolInfoUnboundClass(MinecraftReflection.java:1878)
+  	at ProtocolLib.jar//com.comphenix.protocol.injector.packet.PacketRegistry.createRegisterV1_20_5(PacketRegistry.java:367)
+  	at ProtocolLib.jar//com.comphenix.protocol.injector.packet.PacketRegistry.initialize(PacketRegistry.java:552)
+  	at ProtocolLib.jar//com.comphenix.protocol.injector.packet.PacketRegistry.getClientPacketTypes(PacketRegistry.java:604)
+  	at ProtocolLib.jar//com.comphenix.protocol.injector.PacketFilterManager.<init>(PacketFilterManager.java:112)
+  	at ProtocolLib.jar//com.comphenix.protocol.injector.PacketFilterBuilder.build(PacketFilterBuilder.java:121)
+  	at ProtocolLib.jar//com.comphenix.protocol.ProtocolLib.onLoad(ProtocolLib.java:179)
+  	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:59)
+  	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:18)
+  	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39)
+  	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39)
+  	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:566)
+  	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:235)
+  	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164)
+  	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
+  	at java.base/java.lang.Thread.run(Thread.java:1447)
+  Dump:
+  Parameters: 
+    [NULL]
+  Sender:
+    com.comphenix.protocol.ProtocolLib@63773852[
+      statistics=<null>
+      packetTask=<null>
+      tickCounter=0
+      configExpectedMod=-1
+      updater=com.comphenix.protocol.updater.SpigotUpdater@66ae8165
+      redirectHandler=<null>
+      scheduler=com.comphenix.protocol.scheduler.DefaultScheduler@3c41804a
+      commandProtocol=<null>
+      commandPacket=<null>
+      commandFilter=<null>
+      packetLogging=<null>
+      skipDisable=false
+      isEnabled=false
+      loader=io.papermc.paper.plugin.manager.DummyBukkitPluginLoader@274c6e79
+      server=CraftServer{serverName=Paper,serverVersion=1.21.7-17-b4466ec,minecraftVersion=1.21.7}
+      file=plugins\ProtocolLib.jar
+      description=org.bukkit.plugin.PluginDescriptionFile@d698a49
+      pluginMeta=org.bukkit.plugin.PluginDescriptionFile@d698a49
+      dataFolder=plugins\ProtocolLib
+      classLoader=PluginClassLoader{plugin=ProtocolLib v5.3.0, pluginEnabled=false, url=plugins\ProtocolLib.jar}
+      naggable=true
+      newConfig=YamlConfiguration[path='', root='YamlConfiguration']
+      configFile=plugins\ProtocolLib\config.yml
+      logger=com.destroystokyo.paper.utils.PaperPluginLogger@29e6719e
+      lifecycleEventManager=io.papermc.paper.plugin.lifecycle.event.PaperLifecycleEventManager@7d0c3744
+      allowsLifecycleRegistration=true
+      isBeingEnabled=false
+    ]
+  Version:
+    ProtocolLib v5.3.0
+  Java Version:
+    24.0.1
+  Server:
+    1.21.7-17-b4466ec (MC: 1.21.7)
+
+[16:15:43] [Server thread/INFO]: [Admin-GUI] Loading server plugin Admin-GUI v1.9.0
+[16:15:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:15:43] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[16:15:43] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[16:15:43] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[16:15:43] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[16:15:43] [Server thread/ERROR]: ******************************************************
+[16:15:43] [Server thread/ERROR]: *** ProtocolLib does not support plugin reloaders! ***
+[16:15:43] [Server thread/ERROR]: *** Please use the built-in reload command!        ***
+[16:15:43] [Server thread/ERROR]: ******************************************************
+[16:15:43] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[16:15:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:15:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:15:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:15:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:15:43] [Server thread/INFO]: Preparing level "world"
+[16:15:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:15:44] [Server thread/INFO]: Preparing spawn area: 0%
+[16:15:44] [Server thread/INFO]: Preparing spawn area: 0%
+[16:15:44] [Server thread/INFO]: Time elapsed: 804 ms
+[16:15:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:15:44] [Server thread/INFO]: Preparing spawn area: 0%
+[16:15:44] [Server thread/INFO]: Time elapsed: 112 ms
+[16:15:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:15:44] [Server thread/INFO]: Preparing spawn area: 0%
+[16:15:44] [Server thread/INFO]: Time elapsed: 67 ms
+[16:15:44] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
+[16:15:45] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7 (772)
+[16:15:45] [Server thread/WARN]: [ViaVersion] ViaVersion does not have any compatible versions for this server version!
+[16:15:45] [Server thread/WARN]: [ViaVersion] ViaVersion only supports newer client versions. Use ViaBackwards to allow older versions (ViaRewind for 1.7/1.8) to join.
+[16:15:45] [Server thread/WARN]: [ViaVersion] Get setup help at https://viaversion.com/setup or download ViaBackwards/ViaRewind directly at https://ci.viaversion.com/
+[16:15:45] [Server thread/WARN]: [ViaVersion] Need more help? Join our Discord at https://viaversion.com/discord
+[16:15:45] [Server thread/INFO]: [TAB] Enabling TAB v5.2.4
+[16:15:45] [Server thread/INFO]: [TAB] Enabled in 230ms
+[16:15:45] [Server thread/INFO]: [Admin-GUI] Enabling Admin-GUI v1.9.0
+[16:15:45] [Server thread/INFO]: [spark] Starting background profiler...
+[16:15:45] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[16:15:45] [Server thread/INFO]: Done preparing level "world" (2.009s)
+[16:15:45] [Server thread/INFO]: Running delayed init tasks
+[16:15:45] [Server thread/INFO]: Done (14.585s)! For help, type "help"
+[16:15:45] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[16:15:45] [Craft Scheduler Thread - 2 - Vault/INFO]: [Vault] Checking for Updates ... 
+[16:15:45] [Craft Scheduler Thread - 2 - Vault/INFO]: [Vault] No new version available
+[16:15:45] [Craft Scheduler Thread - 1 - Admin-GUI/INFO]: 
+
+[]===========[Enabling AdminGUI]===========[]
+|
+| Information:
+|
+|   Name: AdminGUI
+|   Developer: Black1_TV
+|   Version: 1.9.0 (FREE)
+|   Website: https://rabbit-company.com
+|
+| Sponsors:
+|
+|   - https://rabbitserverlist.com
+|
+| Support:
+|
+|   Discord: ziga.zajc007
+|   Mail: ziga.zajc007@gmail.com
+|   Discord: https://discord.gg/hUNymXX
+|
+[]=========================================[]
+
+[16:18:11] [Server thread/INFO]: Stopping server
+[16:18:11] [Server thread/INFO]: [Admin-GUI] Disabling Admin-GUI v1.9.0
+[16:18:11] [Server thread/INFO]: 
+
+[]===========[Disabling AdminGUI]===========[]
+|
+| Information:
+|
+|   Name: AdminGUI
+|   Developer: Black1_TV
+|   Version: 1.9.0 (FREE)
+|   Website: https://rabbit-company.com
+|
+| Sponsors:
+|
+|   - https://rabbitserverlist.com
+|
+| Support:
+|
+|   Discord: ziga.zajc007
+|   Mail: ziga.zajc007@gmail.com
+|   Discord: https://discord.gg/hUNymXX
+|
+[]=========================================[]
+
+[16:18:11] [Server thread/INFO]: [TAB] Disabling TAB v5.2.4
+[16:18:11] [Server thread/INFO]: [TAB] Disabled in 0ms
+[16:18:11] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.1
+[16:18:11] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[16:18:11] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[16:18:11] [Server thread/INFO]: Saving players
+[16:18:12] [Server thread/INFO]: Saving worlds
+[16:18:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:18:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[16:18:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[16:18:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[16:18:12] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 0,20s
+[16:18:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[16:18:12] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[16:18:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[16:18:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[16:18:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[16:18:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[16:18:12] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0,07s
+[16:18:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[16:18:12] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[16:18:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:18:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[16:18:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[16:18:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[16:18:12] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0,05s
+[16:18:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[16:18:12] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[16:18:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:18:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:18:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:18:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:18:12] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[16:18:12] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[16:18:12] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[16:18:12] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
